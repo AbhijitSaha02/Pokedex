@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>472161219414-4ud9hlg6sili6umtnkc2033tar2mkmfb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.472161219414-4ud9hlg6sili6umtnkc2033tar2mkmfb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>472161219414-b7p9jll8i7rfaegmlmqtvnsufjbj63s2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIEJ7AHP_E2jJwI9ZtBldObP0cPIxMLdg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>472161219414</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pokedexApp</string>
+	<key>PROJECT_ID</key>
+	<string>pokedex-project-5cd61</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokedex-project-5cd61.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:472161219414:ios:11fa972140ecb714d49cf7</string>
+</dict>
+</plist>
